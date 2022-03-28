@@ -11,7 +11,6 @@
   inputs.src-firejail-master.ref   = "refs/heads/master";
   inputs.src-firejail-master.owner = "juancarlospaco";
   inputs.src-firejail-master.repo  = "nim-firejail";
-  inputs.src-firejail-master.dir   = "";
   inputs.src-firejail-master.type  = "github";
   
   outputs = { self, nixpkgs, flakeNimbleLib, ...}@deps:
