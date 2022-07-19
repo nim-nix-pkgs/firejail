@@ -12,11 +12,11 @@
       },
       "locked": {
         "dir": "master",
-        "lastModified": 1658017919,
-        "narHash": "sha256-EFh6S0kiQQkFchO2ooYC1DD+P2wuv7JviD2jrYcpRko=",
+        "lastModified": 1658031864,
+        "narHash": "sha256-pH3xF/HT8zkSsPYg2cR1tNJde2aAG4tMg3eM/V3DDe8=",
         "owner": "nim-nix-pkgs",
         "repo": "firejail",
-        "rev": "141f4ea69dbce5d9fa7b2fdced022352969a5f7d",
+        "rev": "b471288fa319319f8a03a093afe7e1cd2473a6cf",
         "type": "github"
       },
       "original": {
